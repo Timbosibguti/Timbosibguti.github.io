@@ -388,6 +388,10 @@ h1{
 	display: none;
 }
 
+.logo1 img {
+	width: 100%;
+}
+
 #video iframe {
     height: 1000px;
 }

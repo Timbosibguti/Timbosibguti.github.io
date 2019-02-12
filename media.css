@@ -211,13 +211,13 @@ h1 {
 
 .sub {
     display: block;
-    margin-top: 27%;
+    margin-top: 23%;
 }
 
 .logo1 {
-    width: 35%;
+    width: 45%;
+    display: inline-block;
 }
-
 h1 {
     color: white;
     font-size: 3em;
@@ -548,23 +548,15 @@ h1 {
     width: 95%;
 }
 
+
+
 .sub .main_middle {
-    padding: 0% 5%;
+    padding: 7% 5%;
     text-align: left;
     font-family: 'Merriweather', serif;
     width: 93%;
     display: inline-block;
     vertical-align: top;
-}
-
-.sub .main_middle {
-    padding: 16% 5%;
-    text-align: left;
-    font-family: 'Merriweather', serif;
-    width: 93%;
-    display: inline-block;
-    vertical-align: top;
-
 }
 
 h1 {
@@ -578,7 +570,7 @@ h1 {
 }
 
 .logo1 {
-    width: 33%;
+    width: 63%;
 }
 
 .mid h2 {
@@ -660,7 +652,10 @@ h1 {
 	background-size: 325%;
 	}
 
-
+.sub {
+    display: block;
+    margin-top: 0%;
+}
 
 	.mid h2 {
     display: inline-block;
@@ -713,5 +708,15 @@ h1 {
     display: block;
 }
 
+
+h1 {
+    color: white;
+    font-size: 3em;
+    margin: 0;
+}
+
+.main_text h2 {
+    font-size: 2em;
+}
 
 }
