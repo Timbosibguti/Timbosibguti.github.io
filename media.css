@@ -375,6 +375,15 @@ h1 {
 
 @media screen and (max-width: 375px) {
 
+#header .rgba {
+    height: 667px;
+}
+
+	.sub {
+    display: block;
+    margin-top: 0%;
+}
+
 #header {
     background: url(img/fon1.jpg) no-repeat;
     background-size: 325%;
@@ -442,9 +451,7 @@ h1 {
     display: block;
 }
 
-.rgba{
-	height: 667px;
-}
+
 
 .blocks {
     display: inline-block;
@@ -526,7 +533,7 @@ h1 {
 }
 
 
-	
+
 #header {
     background: url(img/fon1.jpg) no-repeat;
     background-size: 325%;

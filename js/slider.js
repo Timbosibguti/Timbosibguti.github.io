@@ -70,11 +70,3 @@ $(function(){
   });
 });
 
-
-$(function () {                             
-    $('.menu_item ul li a').each(function () {    
-        var location = window.location.hash
-        var link = this.href                
-        var result = location.match(link);   
-        if(result != null) {  $(this).addClass('active'); link=null;  }    
- });});
