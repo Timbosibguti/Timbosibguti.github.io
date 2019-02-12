@@ -519,6 +519,14 @@ h1 {
 }
 
 @media screen and (max-width: 414px) {
+
+.sub {
+    display: block;
+    margin-top: 0%;
+}
+
+
+	
 #header {
     background: url(img/fon1.jpg) no-repeat;
     background-size: 325%;
