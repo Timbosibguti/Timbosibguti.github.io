@@ -141,11 +141,6 @@ h1 {
     font-size: 1em;
 }
 
-.rgba {
-    height: 560px;
-    background: rgba(0,0,0,0.5);
-}
-
 .main_text h2 {
     font-size: 3em;
 }
@@ -360,10 +355,6 @@ h1 {
     background-position-x: 105%;
     height: 576px;
 }
-
-.rgba{
-	height: 576px;
-}
 }
 
 
@@ -375,9 +366,6 @@ h1 {
 
 @media screen and (max-width: 375px) {
 
-#header .rgba {
-    height: 667px;
-}
 
 	.sub {
     display: block;
@@ -542,10 +530,6 @@ h1 {
     background-position-x: 70%;
 }
 
-.rgba{
-	height: 736px;
-}
-
 
 .mob-menu {
     list-style: none;
@@ -686,10 +670,6 @@ h1 {
 .check {
     bottom: 10px;
     width: 28%;
-}
-
-#header .rgba {
-    height: 568px;
 }
 
 .down {
